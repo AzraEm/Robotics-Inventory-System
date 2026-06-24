@@ -1,0 +1,7 @@
+Part ID,Part Name,Category,Location,Starting Qty,Current Qty,Reorder At,Returnable,Notes
+VEX-001,Smart Motor,Electronics,D-01,12,12,5,Yes,High-demand item
+VEX-002,Battery,Electronics,D-02,10,10,4,Yes,Charge after return
+VEX-003,Shaft Collar,Hardware,A-03,42,42,15,No,Often lost
+VEX-004,Bearing Flat,Hardware,A-04,60,60,20,No,Keep near shafts
+VEX-005,36T Gear,Motion,B-05,18,18,6,Yes,Common drivetrain part
+VEX-006,C-Channel,Structure,C-01,30,30,8,Yes,Sort by length separately
